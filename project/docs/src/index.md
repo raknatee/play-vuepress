@@ -54,6 +54,8 @@ if __name__ == "__main__":
 ## link
 [Download main.py file](./code/main.py)
 
+[Go to 2rd page](./page2/index.md)
+
 <hr>
 
 ## Boxes

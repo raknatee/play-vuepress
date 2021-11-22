@@ -12,5 +12,5 @@ RUN yarn install
 COPY ./project /home/project
 
 
-# CMD  tail -f /dev/null
-CMD  yarn dev
+CMD  tail -f /dev/null
+# CMD  yarn dev
